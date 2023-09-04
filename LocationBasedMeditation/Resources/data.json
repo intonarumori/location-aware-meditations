@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "audio_files": [
+            {
+                "id": 101,
+                "name": "",
+                "audio": "https://api.momentsofspace.com/api/audio/101/download/",
+                "version": "1.0",
+                "duration_seconds": 527
+            }
+        ],
+        "title": "Around the world",
+        "subtitle": "Meditation in the world",
+        "description": "Take a trip around the world"
+    },
+    {
+        "id": 2,
+        "audio_files": [
+            {
+                "id": 101,
+                "name": "",
+                "audio": "https://api.momentsofspace.com/api/audio/101/download/",
+                "version": "1.0",
+                "duration_seconds": 527
+            }
+        ],
+        "title": "Around the world",
+        "subtitle": "Meditation in the world",
+        "description": "Take a trip around the world"
+    }
+]
